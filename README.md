@@ -1,5 +1,5 @@
 # Car_dealership
-Data Structure Project
+Data Structure Project (in java)
 The file to execute is the "Car_dealership" file.
 The main goal of the project is to help a car dealership to know what car he owned. It can also classify them or find a 
 specific one quickly (with all the caracteristic.
